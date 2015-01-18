@@ -1,0 +1,93 @@
+{
+	"items": [{
+		"id":100,
+		"title": "Peter Pan",
+		"author": "J.M.Barrie",
+		"description": "Follow the story of the boy who doesn't grow up...",
+		"cover": "http://d.gr-assets.com/books/1337714526l/34268.jpg",
+		"status": "out",
+		"dueDate": 1363811510058,
+		"reservedBy": [0]
+	}, {
+		"id":101,
+		"title": "Little Women",
+		"author": "Louisa May Alcott",
+		"description": "Meet Jo, Beth, May and Amy, four girls of nineteenth century New England.",
+		"cover": "http://d.gr-assets.com/books/1309282614l/1934.jpg",
+		"status": "in",
+		"dueDate": null,
+		"reservedBy": []
+	}, {
+		"id":102,
+		"title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+		"author": "Robert Louis Stevenson",
+		"description": "In this tale of good and evil, Mr Jekyll develops a potion which unleashes his secret persona, Mr Hyde.",
+		"cover": "http://d.gr-assets.com/books/1318116526l/51496.jpg",
+		"status": "in",
+		"dueDate": null,
+		"reservedBy": []
+	}, {
+		"id":103,
+		"title": "Nicholas Nickleby",
+		"author": "Charles Dickens",
+		"description": "When Nicholas Nickleby is left alone after his father's death, he seeks out his rich uncle for help.",
+		"cover": "http://d.gr-assets.com/books/1352758388l/325085.jpg",
+		"status": "in",
+		"dueDate": null,
+		"reservedBy": []
+	}, {
+		"id":104,
+		"title": "The Hunchback of Notre Dame",
+		"author": "Victor Hugo",
+		"description": "The story of a hunchbacked bellringer, Quasimodo, as he falls in love with beautful gypsy, Esmerelda.",
+		"cover": "http://d.gr-assets.com/books/1168079239l/30597.jpg",
+		"status": "in",
+		"dueDate": null,
+		"reservedBy": []
+	}, {
+		"id":105,
+		"title": "Moby-Dick",
+		"author": "Herman Melville",
+		"description": "Fight against reality and fantasy in this war on the whales.",
+		"cover": "http://d.gr-assets.com/books/1327940656l/153747.jpg",
+		"status": "in",
+		"dueDate": null,
+		"reservedBy": []
+	}, {
+		"id":106,
+		"title": "The Complete Grimm's Fairy Tales",
+		"author": "Jacob & Wilhelm Grimm",
+		"description": "An anthology of stories full of magic and mythology.",
+		"cover": "http://d.gr-assets.com/books/1320480076l/22917.jpg",
+		"status": "in",
+		"dueDate": null,
+		"reservedBy": []
+	}, {
+		"id":107,
+		"title": "Frankenstein",
+		"author": "Mary Shelley",
+		"description": "A Gothic thriller and a dark romance, between monster and man.",
+		"cover": "http://d.gr-assets.com/books/1311647465l/18490.jpg",
+		"status": "in",
+		"dueDate": null,
+		"reservedBy": []
+	}, {
+		"id":108,
+		"title": "The Hound of the Baskervilles",
+		"author": "Arthur Conan Doyle",
+		"description": "The misty moors surrounding the Baskerville family's home hold a deep, dark secret.",
+		"cover": "http://d.gr-assets.com/books/1355929358l/8921.jpg",
+		"status": "in",
+		"dueDate": null,
+		"reservedBy": []
+	}, {
+		"id":109,
+		"title": "Jane Eyre",
+		"author": "Charlotte Brontë",
+		"description": "The life story of Jane Eyre, orphaned as a child, as she falls in love with one, Mr Rochester.",
+		"cover": "http://d.gr-assets.com/books/1327867269l/10210.jpg",
+		"status": "in",
+		"dueDate": null,
+		"reservedBy": []
+	}]
+}

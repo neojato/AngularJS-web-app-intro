@@ -1,0 +1,9 @@
+<div class="hero-unit clearfix">
+	<img class="cover" src="{{book.cover}}">
+	<h2>{{book.title}}</h2>
+	<h3>{{book.author}}</h3>
+	<p>{{book.description}}</p>
+	<button class="btn" ng-click="reserve($event)" ng-class="{ disabled: youReserved($event) }">Reserve book</button>
+	<button class="btn" ng-click="cancel($event)" ng-show="youReserved($event)">Cancel reservation</button>
+	<p ng-show="youReserved($event)">Your book has been reserved <span ng-show="book.formattedFromDate">from {{book.formattedFromDate}}</span> until {{book.formattedDueDate}}.</p>
+</div>

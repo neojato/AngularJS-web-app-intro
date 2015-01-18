@@ -1,0 +1,7 @@
+/* Will be compiled down to a single stylesheet with your sass files */
+
+.cover {
+	float: right;
+	margin-left: 1em;
+	height: 300px;
+}
